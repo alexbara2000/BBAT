@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/application/src/reducers/page-state.js

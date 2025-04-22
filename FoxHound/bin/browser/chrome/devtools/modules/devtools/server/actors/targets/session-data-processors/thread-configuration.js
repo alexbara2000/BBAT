@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/server/actors/targets/session-data-processors/thread-configuration.js

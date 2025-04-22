@@ -1,0 +1,14 @@
+content activity-stream browser/content/activity-stream/ contentaccessible=yes
+content branding browser/content/branding/ contentaccessible=yes
+content browser browser/content/browser/ contentaccessible=yes
+content pocket browser/content/pocket/ contentaccessible=yes
+content screenshots-overlay browser/overlay/
+locale app-marketplace-icons en-US browser/locale/en-US/app-marketplace-icons/
+override chrome://global/content/license.html chrome://browser/content/license.html
+override chrome://global/locale/appstrings.properties chrome://browser/locale/appstrings.properties
+resource activity-stream browser/res/activity-stream/ contentaccessible=yes
+resource builtin-addons browser/builtin-addons/ contentaccessible=yes
+resource builtin-themes browser/content/builtin-themes/
+resource search-extensions browser/search-extensions/ contentaccessible=yes
+resource usercontext-content browser/content/ contentaccessible=yes
+skin browser classic/1.0 browser/skin/classic/browser/

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1849058-nicochannel.jp-picture-in-picture-shim.js

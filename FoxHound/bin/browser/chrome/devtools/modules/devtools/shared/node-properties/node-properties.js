@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/node-properties/node-properties.js

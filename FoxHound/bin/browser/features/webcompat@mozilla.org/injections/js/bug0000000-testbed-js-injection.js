@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug0000000-testbed-js-injection.js

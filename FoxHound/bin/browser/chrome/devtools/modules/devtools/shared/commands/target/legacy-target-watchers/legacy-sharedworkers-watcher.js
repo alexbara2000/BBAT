@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/commands/target/legacy-target-watchers/legacy-sharedworkers-watcher.js

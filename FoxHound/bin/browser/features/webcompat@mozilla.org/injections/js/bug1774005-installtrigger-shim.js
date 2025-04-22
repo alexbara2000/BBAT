@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1774005-installtrigger-shim.js

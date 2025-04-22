@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/actors/DOMFullscreenParent.sys.mjs

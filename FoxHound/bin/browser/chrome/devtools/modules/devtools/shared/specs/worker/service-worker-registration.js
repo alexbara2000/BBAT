@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/specs/worker/service-worker-registration.js

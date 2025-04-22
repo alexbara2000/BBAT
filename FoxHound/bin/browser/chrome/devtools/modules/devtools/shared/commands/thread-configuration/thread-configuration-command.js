@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/commands/thread-configuration/thread-configuration-command.js

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/shims/everest.js

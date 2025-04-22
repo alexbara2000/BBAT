@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1831007-nintendo-window-OnetrustActiveGroups.js

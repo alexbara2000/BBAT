@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/extensions/pictureinpicture/lib/picture_in_picture_overrides.js

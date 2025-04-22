@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/sessionstore/TabState.sys.mjs

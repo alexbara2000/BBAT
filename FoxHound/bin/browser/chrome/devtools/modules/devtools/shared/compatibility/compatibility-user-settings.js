@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/compatibility/compatibility-user-settings.js

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/components/translation/cld2/cld-worker.js

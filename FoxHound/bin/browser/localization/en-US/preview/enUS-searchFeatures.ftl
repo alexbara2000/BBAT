@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/locales/../components/urlbar/content/enUS-searchFeatures.ftl

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/specs/addon/webextension-inspected-window.js

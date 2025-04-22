@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/netmonitor/src/utils/l10n.js

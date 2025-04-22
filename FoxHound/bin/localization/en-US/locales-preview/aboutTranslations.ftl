@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/locales/../locales-preview/aboutTranslations.ftl

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/pocket/content/panels/js/main.bundle.js

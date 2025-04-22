@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/locales/en-US/toolkit/main-window/autocomplete.ftl

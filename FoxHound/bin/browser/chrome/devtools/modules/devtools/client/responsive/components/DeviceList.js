@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/responsive/components/DeviceList.js

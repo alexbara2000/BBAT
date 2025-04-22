@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/urlbar/private/AdmWikipedia.sys.mjs

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/remote/webdriver-bidi/modules/windowglobal/browsingContext.sys.mjs

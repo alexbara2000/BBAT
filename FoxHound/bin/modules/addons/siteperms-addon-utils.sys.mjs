@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/mozapps/extensions/internal/siteperms-addon-utils.sys.mjs

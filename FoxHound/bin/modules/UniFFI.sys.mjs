@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/components/uniffi-js/js/UniFFI.sys.mjs

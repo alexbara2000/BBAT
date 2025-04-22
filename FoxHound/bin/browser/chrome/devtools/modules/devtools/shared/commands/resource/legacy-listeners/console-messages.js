@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/commands/resource/legacy-listeners/console-messages.js

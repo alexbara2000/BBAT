@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/mozapps/extensions/content/abuse-reports.js

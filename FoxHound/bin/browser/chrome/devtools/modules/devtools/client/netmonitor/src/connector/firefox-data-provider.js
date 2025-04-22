@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/netmonitor/src/connector/firefox-data-provider.js

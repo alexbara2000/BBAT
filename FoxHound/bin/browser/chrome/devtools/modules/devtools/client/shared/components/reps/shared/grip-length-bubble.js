@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/shared/components/reps/shared/grip-length-bubble.js

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/dom/locales/en-US/dom/XMLPrettyPrint.ftl

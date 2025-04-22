@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/webconsole/js-property-provider.js

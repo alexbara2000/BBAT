@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/netmonitor/src/components/messages/parsers/signalr/IHubProtocol.js

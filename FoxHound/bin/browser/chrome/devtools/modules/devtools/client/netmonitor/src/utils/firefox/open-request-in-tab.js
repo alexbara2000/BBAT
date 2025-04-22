@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/netmonitor/src/utils/firefox/open-request-in-tab.js

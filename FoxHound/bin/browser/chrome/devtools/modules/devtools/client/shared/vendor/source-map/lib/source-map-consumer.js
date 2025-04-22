@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/shared/vendor/source-map/lib/source-map-consumer.js

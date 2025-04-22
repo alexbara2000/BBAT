@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/remote/marionette/addon.sys.mjs

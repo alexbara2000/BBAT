@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/security/manager/locales/en-US/security/pippki/pippki.ftl

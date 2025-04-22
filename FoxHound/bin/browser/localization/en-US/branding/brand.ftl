@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/branding/foxhound/locales/en-US/brand.ftl

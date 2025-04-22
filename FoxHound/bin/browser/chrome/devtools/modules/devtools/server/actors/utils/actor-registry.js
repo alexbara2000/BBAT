@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/server/actors/utils/actor-registry.js

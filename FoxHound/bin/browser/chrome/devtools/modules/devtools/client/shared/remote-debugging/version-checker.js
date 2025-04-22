@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/shared/remote-debugging/version-checker.js

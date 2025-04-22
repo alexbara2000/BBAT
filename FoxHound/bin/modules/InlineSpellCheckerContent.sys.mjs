@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/modules/InlineSpellCheckerContent.sys.mjs

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/services/fxaccounts/FxAccountsConfig.sys.mjs

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/shared/sourceeditor/editor-commands-controller.js

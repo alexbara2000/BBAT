@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/webconsole/components/Output/message-types/NetworkEventMessage.js

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/modules/sessionstore/SessionHistory.sys.mjs

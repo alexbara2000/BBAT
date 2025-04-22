@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/locales/en-US/browser/preferences/fonts.ftl

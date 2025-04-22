@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/inspector/markup/views/read-only-editor.js

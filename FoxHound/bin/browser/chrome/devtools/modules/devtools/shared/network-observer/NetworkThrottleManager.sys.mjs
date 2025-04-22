@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/network-observer/NetworkThrottleManager.sys.mjs

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/server/connectors/content-process-connector.js

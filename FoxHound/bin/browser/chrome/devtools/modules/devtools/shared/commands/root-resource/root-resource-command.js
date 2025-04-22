@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/commands/root-resource/root-resource-command.js

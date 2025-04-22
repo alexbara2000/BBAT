@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/aboutdebugging/src/components/sidebar/RefreshDevicesButton.js

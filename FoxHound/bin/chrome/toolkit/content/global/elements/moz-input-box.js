@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/content/widgets/moz-input-box.js

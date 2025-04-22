@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/inspector/compatibility/actions/index.js

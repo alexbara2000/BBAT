@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/components/extensions/ExtensionChildDevToolsUtils.sys.mjs

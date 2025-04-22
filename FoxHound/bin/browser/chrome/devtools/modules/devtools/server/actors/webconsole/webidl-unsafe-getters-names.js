@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/server/actors/webconsole/webidl-unsafe-getters-names.js

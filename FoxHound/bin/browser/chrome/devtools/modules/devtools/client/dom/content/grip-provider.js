@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/dom/content/grip-provider.js

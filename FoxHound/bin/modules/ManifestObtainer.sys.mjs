@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/dom/manifest/ManifestObtainer.sys.mjs

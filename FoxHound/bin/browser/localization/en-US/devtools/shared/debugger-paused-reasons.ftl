@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/shared/locales/en-US/debugger-paused-reasons.ftl

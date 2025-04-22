@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/modules/LightweightThemeConsumer.sys.mjs

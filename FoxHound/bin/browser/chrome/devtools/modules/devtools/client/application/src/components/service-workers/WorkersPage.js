@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/application/src/components/service-workers/WorkersPage.js

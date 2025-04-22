@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/components/uniffi-bindgen-gecko-js/components/generated/RustRemoteSettings.sys.mjs

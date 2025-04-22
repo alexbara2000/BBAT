@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/server/connectors/js-window-actor/DevToolsFrameParent.sys.mjs

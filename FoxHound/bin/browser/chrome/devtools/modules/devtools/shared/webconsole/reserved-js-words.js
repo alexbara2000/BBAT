@@ -1,0 +1,1 @@
+../../../../../../../../../devtools/shared/webconsole/reserved-js-words.js

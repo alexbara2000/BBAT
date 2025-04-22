@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/services/settings/RemoteSettingsWorker.sys.mjs

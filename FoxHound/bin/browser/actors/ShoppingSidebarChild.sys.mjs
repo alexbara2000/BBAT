@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/shopping/ShoppingSidebarChild.sys.mjs

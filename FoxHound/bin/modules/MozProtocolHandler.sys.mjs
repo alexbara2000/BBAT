@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/toolkit/components/mozprotocol/MozProtocolHandler.sys.mjs

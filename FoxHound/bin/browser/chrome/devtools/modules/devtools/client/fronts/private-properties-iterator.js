@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/fronts/private-properties-iterator.js

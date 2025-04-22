@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/locales/../components/shopping/content/shopping.ftl

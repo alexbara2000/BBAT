@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/juggler/SimpleChannel.js

@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/protections/content/proxy-card.mjs

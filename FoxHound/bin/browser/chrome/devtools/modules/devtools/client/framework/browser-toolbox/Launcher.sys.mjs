@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/devtools/client/framework/browser-toolbox/Launcher.sys.mjs

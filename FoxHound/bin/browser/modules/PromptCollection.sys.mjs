@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/prompts/PromptCollection.sys.mjs

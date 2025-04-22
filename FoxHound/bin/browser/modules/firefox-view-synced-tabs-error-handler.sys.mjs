@@ -1,0 +1,1 @@
+/home/vagrant/thesis/project-foxhound/browser/components/firefoxview/firefox-view-synced-tabs-error-handler.sys.mjs
