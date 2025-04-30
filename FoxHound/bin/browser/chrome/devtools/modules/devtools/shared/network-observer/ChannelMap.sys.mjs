@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/shared/network-observer/ChannelMap.sys.mjs

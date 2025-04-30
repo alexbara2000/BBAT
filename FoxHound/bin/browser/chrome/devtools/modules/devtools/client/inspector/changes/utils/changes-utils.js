@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/inspector/changes/utils/changes-utils.js

@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/components/urlbar/UrlbarUtils.sys.mjs

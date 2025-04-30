@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/netwerk/dns/PublicSuffixList.sys.mjs

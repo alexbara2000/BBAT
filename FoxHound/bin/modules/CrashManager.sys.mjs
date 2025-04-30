@@ -1,1 +1,0 @@
-../../../toolkit/components/crashes/CrashManager.sys.mjs

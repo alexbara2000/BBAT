@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/netmonitor/src/utils/filter-text-utils.js

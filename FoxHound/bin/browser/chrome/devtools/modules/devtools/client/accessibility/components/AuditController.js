@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/accessibility/components/AuditController.js

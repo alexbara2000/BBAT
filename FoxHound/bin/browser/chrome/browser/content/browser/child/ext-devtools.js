@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/components/extensions/child/ext-devtools.js

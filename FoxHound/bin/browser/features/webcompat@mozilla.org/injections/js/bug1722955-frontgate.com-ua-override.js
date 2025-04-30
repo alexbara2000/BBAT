@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1722955-frontgate.com-ua-override.js

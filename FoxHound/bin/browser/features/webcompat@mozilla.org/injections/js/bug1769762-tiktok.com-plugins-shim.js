@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1769762-tiktok.com-plugins-shim.js

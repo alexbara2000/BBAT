@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/shared/remote-debugging/adb/commands/prepare-tcp-connection.js

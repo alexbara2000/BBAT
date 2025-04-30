@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/application/src/reducers/ui-state.js

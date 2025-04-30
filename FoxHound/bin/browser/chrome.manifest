@@ -1,7 +1,0 @@
-manifest chrome/browser.manifest
-manifest chrome/devtools-startup.manifest
-manifest chrome/devtools.manifest
-manifest chrome/en-US.manifest
-manifest components/BrowserComponents.manifest
-manifest components/extensions-browser.manifest
-manifest components/l10n-registry.manifest

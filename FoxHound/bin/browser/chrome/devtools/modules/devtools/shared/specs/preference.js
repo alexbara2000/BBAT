@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/shared/specs/preference.js

@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/debugger/dist/pretty-print-worker.js

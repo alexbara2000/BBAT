@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/components/pocket/content/panels/js/style-guide/entry.js

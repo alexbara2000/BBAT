@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/framework/source-map-url-service.js

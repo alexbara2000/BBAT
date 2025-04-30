@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1836157-thai-masszazs-niceScroll-disable.js

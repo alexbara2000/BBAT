@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/modules/BrowserWindowTracker.sys.mjs

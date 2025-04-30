@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/components/telemetry/pings/BackgroundTask_pingsender.sys.mjs

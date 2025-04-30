@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/services/sync/modules/sync_auth.sys.mjs

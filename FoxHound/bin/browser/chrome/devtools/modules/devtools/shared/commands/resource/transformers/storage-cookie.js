@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/shared/commands/resource/transformers/storage-cookie.js

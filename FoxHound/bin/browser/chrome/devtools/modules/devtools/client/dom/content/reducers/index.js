@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/dom/content/reducers/index.js

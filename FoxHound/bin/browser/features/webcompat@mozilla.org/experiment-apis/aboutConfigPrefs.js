@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/experiment-apis/aboutConfigPrefs.js

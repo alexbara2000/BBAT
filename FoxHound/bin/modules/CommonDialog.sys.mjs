@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/components/prompts/src/CommonDialog.sys.mjs

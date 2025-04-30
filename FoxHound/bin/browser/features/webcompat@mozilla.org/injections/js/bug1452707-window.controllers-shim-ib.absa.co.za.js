@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/extensions/webcompat/injections/js/bug1452707-window.controllers-shim-ib.absa.co.za.js

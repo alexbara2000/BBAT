@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/remote/webdriver-bidi/modules/windowglobal-in-root/log.sys.mjs

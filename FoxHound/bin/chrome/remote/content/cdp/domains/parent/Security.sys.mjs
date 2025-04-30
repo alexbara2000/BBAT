@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/remote/cdp/domains/parent/Security.sys.mjs

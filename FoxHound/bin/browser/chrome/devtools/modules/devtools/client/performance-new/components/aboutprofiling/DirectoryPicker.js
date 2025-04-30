@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/performance-new/components/aboutprofiling/DirectoryPicker.js

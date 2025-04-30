@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/aboutdebugging/src/components/connect/ConnectSection.js

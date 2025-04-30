@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/security/manager/pki/resources/content/clientauthask.js

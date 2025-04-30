@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/actors/ClipboardReadPasteParent.sys.mjs

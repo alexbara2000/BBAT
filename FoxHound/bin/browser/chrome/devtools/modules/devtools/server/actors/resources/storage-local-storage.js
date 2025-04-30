@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/server/actors/resources/storage-local-storage.js

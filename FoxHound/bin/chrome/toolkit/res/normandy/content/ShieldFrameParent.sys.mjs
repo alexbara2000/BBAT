@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/components/normandy/./content/ShieldFrameParent.sys.mjs

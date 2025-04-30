@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/components/enterprisepolicies/helpers/BookmarksPolicies.sys.mjs

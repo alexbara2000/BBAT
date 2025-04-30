@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/intl/locale/LangPackMatcher.sys.mjs

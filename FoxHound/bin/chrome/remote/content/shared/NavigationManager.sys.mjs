@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/remote/shared/NavigationManager.sys.mjs

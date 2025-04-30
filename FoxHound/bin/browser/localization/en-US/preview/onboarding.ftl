@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/locales/../components/newtab/aboutwelcome/content/onboarding.ftl

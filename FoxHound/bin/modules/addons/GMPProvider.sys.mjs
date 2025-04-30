@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/mozapps/extensions/internal/GMPProvider.sys.mjs

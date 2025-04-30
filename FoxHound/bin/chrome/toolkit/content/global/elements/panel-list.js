@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/content/widgets/panel-list/panel-list.js

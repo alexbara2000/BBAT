@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/inspector/boxmodel/actions/box-model-highlighter.js

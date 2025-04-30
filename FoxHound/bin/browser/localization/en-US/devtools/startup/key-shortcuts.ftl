@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/startup/locales/en-US/key-shortcuts.ftl

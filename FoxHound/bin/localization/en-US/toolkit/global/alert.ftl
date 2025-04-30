@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/locales/en-US/toolkit/global/alert.ftl

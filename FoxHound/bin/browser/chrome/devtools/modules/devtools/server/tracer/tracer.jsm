@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/server/tracer/tracer.jsm

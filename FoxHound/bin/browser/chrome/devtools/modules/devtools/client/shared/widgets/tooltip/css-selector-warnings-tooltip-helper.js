@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/shared/widgets/tooltip/css-selector-warnings-tooltip-helper.js

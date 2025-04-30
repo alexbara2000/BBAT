@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/performance-new/shared/profiler_get_symbols.js

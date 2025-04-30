@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/server/actors/inspector/document-walker.js

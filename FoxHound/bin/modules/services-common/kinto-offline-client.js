@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/services/common/kinto-offline-client.js

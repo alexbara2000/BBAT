@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/components/uniffi-bindgen-gecko-js/components/generated/RustSuggest.sys.mjs

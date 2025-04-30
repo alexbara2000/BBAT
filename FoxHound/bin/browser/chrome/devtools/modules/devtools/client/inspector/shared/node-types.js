@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/inspector/shared/node-types.js

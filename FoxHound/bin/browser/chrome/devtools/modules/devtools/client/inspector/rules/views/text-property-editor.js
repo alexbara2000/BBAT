@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/inspector/rules/views/text-property-editor.js

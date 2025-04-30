@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/browser/locales/en-US/browser/migrationWizard.ftl

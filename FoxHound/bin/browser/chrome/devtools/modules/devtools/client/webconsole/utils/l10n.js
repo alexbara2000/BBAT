@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/webconsole/utils/l10n.js

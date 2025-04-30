@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/devtools/client/shared/redux/visibility-handler-connect.js

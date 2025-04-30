@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/uriloader/exthandler/WebHandlerApp.sys.mjs

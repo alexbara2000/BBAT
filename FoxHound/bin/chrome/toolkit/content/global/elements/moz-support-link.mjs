@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/content/widgets/moz-support-link/moz-support-link.mjs

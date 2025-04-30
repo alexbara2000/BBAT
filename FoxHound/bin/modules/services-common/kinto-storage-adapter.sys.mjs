@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/services/common/kinto-storage-adapter.sys.mjs

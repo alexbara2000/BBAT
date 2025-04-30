@@ -1,1 +1,0 @@
-/home/vagrant/thesis/project-foxhound/toolkit/components/cookiebanners/CookieBannerParent.sys.mjs
