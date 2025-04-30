@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/dom/manifest/ImageObjectProcessor.sys.mjs

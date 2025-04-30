@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/memory/components/tree-map/color-coarse-type.js

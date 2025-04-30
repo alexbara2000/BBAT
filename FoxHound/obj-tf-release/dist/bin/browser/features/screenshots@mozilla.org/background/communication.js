@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/extensions/screenshots/background/communication.js

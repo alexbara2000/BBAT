@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/performance-new/shared/symbolication.jsm.js

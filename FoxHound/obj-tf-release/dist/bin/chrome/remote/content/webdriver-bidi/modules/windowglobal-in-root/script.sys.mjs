@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/remote/webdriver-bidi/modules/windowglobal-in-root/script.sys.mjs

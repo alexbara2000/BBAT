@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/pocket/content/panels/js/style-guide/entry.js

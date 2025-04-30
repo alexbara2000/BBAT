@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/commands/thread-configuration/thread-configuration-command.js

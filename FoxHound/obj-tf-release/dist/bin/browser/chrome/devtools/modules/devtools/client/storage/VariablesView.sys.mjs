@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/storage/VariablesView.sys.mjs

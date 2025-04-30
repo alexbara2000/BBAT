@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/shared/widgets/tooltip/css-compatibility-tooltip-helper.js

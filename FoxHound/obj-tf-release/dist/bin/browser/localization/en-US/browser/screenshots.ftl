@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/locales/en-US/browser/screenshots.ftl

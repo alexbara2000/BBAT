@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/remote/cdp/sessions/frame-script.js

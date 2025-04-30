@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/shared/remote-debugging/remote-client-manager.js

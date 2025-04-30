@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/actors/AboutNewTabChild.sys.mjs

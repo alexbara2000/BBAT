@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/locales/../components/urlbar/content/interventions.ftl

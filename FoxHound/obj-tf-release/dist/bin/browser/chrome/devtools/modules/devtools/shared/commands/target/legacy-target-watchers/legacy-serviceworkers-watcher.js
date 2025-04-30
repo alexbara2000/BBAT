@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/commands/target/legacy-target-watchers/legacy-serviceworkers-watcher.js

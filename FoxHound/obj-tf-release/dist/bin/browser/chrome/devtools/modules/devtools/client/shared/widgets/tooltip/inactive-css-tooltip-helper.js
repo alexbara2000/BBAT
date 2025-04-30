@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/firefoxview/firefox-view-tabs-setup-manager.sys.mjs

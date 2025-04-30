@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/fronts/addon/webextension-inspected-window.js

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/commands/resource/legacy-listeners/source.js

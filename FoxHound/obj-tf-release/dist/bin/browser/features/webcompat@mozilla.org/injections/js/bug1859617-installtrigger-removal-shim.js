@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/extensions/webcompat/injections/js/bug1859617-installtrigger-removal-shim.js

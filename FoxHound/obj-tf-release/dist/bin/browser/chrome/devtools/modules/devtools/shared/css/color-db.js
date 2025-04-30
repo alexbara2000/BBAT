@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/css/color-db.js

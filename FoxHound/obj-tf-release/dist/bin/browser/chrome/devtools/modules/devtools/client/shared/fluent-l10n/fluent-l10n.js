@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/shared/fluent-l10n/fluent-l10n.js

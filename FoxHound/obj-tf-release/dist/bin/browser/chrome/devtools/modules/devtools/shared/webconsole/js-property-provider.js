@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/webconsole/js-property-provider.js

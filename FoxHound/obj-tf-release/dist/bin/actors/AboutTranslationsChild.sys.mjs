@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/components/translations/actors/AboutTranslationsChild.sys.mjs

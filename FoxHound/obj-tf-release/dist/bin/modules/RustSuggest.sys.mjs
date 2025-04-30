@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/components/uniffi-bindgen-gecko-js/components/generated/RustSuggest.sys.mjs

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/components/formautofill/shared/CreditCardRecord.sys.mjs

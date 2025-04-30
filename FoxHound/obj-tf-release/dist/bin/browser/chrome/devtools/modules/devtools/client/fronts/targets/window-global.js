@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/fronts/targets/window-global.js

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/firefoxview/recently-closed-tabs.mjs

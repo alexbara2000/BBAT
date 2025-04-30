@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/extensions/webcompat/injections/js/bug1472075-bankofamerica.com-ua-change.js

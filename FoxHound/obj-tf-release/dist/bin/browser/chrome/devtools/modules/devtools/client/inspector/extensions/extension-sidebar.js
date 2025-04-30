@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/inspector/extensions/extension-sidebar.js

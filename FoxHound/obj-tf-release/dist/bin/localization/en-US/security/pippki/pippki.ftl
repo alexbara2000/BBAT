@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/security/manager/locales/en-US/security/pippki/pippki.ftl

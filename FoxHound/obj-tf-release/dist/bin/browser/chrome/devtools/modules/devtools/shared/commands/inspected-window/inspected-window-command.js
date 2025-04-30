@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/commands/inspected-window/inspected-window-command.js

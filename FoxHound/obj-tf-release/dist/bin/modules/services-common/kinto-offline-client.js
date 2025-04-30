@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/services/common/kinto-offline-client.js

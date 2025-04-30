@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/inspector/markup/utils/l10n.js

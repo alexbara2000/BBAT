@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/branding/foxhound/locales/en-US/brand.ftl

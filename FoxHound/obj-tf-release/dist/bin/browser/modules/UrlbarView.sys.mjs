@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/urlbar/UrlbarView.sys.mjs

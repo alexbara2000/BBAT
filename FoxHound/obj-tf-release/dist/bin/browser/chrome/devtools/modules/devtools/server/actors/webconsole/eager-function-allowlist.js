@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/server/actors/webconsole/eager-function-allowlist.js

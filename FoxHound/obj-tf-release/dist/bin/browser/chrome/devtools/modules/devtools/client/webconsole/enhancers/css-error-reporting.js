@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/webconsole/enhancers/css-error-reporting.js

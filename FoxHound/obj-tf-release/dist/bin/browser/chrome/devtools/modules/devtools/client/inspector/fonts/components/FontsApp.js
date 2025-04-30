@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/inspector/fonts/components/FontsApp.js

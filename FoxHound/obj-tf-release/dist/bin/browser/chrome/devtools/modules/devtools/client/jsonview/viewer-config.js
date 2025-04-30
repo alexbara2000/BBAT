@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/jsonview/viewer-config.js

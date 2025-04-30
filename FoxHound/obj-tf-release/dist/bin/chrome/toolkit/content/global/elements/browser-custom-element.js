@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/content/widgets/browser-custom-element.js

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/firefoxview/firefox-view-synced-tabs-error-handler.sys.mjs

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/security/manager/pki/resources/content/editcacert.js

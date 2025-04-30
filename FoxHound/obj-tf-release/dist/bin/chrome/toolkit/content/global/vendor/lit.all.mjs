@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/content/widgets/vendor/lit.all.mjs

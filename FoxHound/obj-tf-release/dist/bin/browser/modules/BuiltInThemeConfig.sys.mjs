@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/themes/BuiltInThemeConfig.sys.mjs

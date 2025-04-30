@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/components/translations/bergamot-translator/bergamot-translator.js

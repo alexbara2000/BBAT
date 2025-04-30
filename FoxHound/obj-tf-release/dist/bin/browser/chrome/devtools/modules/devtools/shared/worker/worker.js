@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/worker/worker.js

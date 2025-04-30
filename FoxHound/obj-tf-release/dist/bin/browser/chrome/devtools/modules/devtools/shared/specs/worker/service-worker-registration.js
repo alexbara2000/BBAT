@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/specs/worker/service-worker-registration.js

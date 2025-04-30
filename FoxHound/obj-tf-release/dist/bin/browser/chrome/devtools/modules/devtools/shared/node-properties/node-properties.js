@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/node-properties/node-properties.js

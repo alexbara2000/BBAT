@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/preferences/dialogs/sanitize.js

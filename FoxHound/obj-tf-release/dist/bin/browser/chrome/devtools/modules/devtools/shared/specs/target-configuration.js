@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/specs/target-configuration.js

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/remote/cdp/observers/NetworkObserver.sys.mjs

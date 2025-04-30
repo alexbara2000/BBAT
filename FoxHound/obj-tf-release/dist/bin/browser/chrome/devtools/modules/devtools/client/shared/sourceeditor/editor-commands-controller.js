@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/shared/sourceeditor/editor-commands-controller.js

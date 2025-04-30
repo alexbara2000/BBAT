@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/base/content/browser-data-submission-info-bar.js

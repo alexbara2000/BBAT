@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/components/pdfjs/content/build/pdf.sandbox.external.sys.mjs

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/newtab/./lib/SearchShortcuts.sys.mjs

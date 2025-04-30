@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/extensions/child/ext-browser.js

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/services/settings/remote-settings.sys.mjs

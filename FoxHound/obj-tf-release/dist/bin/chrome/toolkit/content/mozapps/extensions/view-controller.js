@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/mozapps/extensions/content/view-controller.js

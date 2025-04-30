@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/shared/compatibility/compatibility-user-settings.js

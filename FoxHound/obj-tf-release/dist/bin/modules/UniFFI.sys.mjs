@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/toolkit/components/uniffi-js/js/UniFFI.sys.mjs

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/base/content/safeMode.js

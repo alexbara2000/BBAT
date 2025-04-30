@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/netmonitor/src/utils/l10n.js

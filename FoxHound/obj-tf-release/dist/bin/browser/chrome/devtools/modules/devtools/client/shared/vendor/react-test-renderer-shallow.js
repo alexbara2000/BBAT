@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/shared/vendor/react-test-renderer-shallow.js

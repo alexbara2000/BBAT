@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/aboutdebugging/src/middleware/tab-component-data.js

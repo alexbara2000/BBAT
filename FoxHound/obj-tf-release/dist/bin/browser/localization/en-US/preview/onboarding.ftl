@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/locales/../components/newtab/aboutwelcome/content/onboarding.ftl

@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/components/shopping/content/highlight-item.mjs

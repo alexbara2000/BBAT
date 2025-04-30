@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/server/connectors/js-window-actor/WindowGlobalLogger.sys.mjs

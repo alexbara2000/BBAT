@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/devtools/client/netmonitor/src/components/search/search-provider.js

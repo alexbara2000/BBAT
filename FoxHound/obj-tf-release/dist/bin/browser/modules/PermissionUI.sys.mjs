@@ -1,0 +1,1 @@
+/home/abara/Documents/project-foxhound/browser/modules/PermissionUI.sys.mjs
