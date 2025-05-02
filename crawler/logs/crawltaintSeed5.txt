@@ -1,0 +1,150 @@
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module 'moment'
+Require stack:
+- /home/abara/Documents/BBAT/crawler/core/common.js
+- /home/abara/Documents/BBAT/crawler/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/core/common.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/abara/Documents/BBAT/crawler/core/common.js',
+    '/home/abara/Documents/BBAT/crawler/main.js'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module 'moment'
+Require stack:
+- /home/abara/Documents/BBAT/crawler/core/common.js
+- /home/abara/Documents/BBAT/crawler/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/core/common.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/abara/Documents/BBAT/crawler/core/common.js',
+    '/home/abara/Documents/BBAT/crawler/main.js'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module 'moment'
+Require stack:
+- /home/abara/Documents/BBAT/crawler/core/common.js
+- /home/abara/Documents/BBAT/crawler/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/core/common.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/abara/Documents/BBAT/crawler/core/common.js',
+    '/home/abara/Documents/BBAT/crawler/main.js'
+  ]
+}
+
+Node.js v22.13.0
+ID: 5/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343035) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}
+ID: 5/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343091) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}
+ID: 5/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343144) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}

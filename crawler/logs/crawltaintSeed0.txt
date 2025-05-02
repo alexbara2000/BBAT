@@ -1,0 +1,533 @@
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module 'moment'
+Require stack:
+- /home/abara/Documents/BBAT/crawler/core/common.js
+- /home/abara/Documents/BBAT/crawler/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/core/common.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/abara/Documents/BBAT/crawler/core/common.js',
+    '/home/abara/Documents/BBAT/crawler/main.js'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module 'moment'
+Require stack:
+- /home/abara/Documents/BBAT/crawler/core/common.js
+- /home/abara/Documents/BBAT/crawler/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/core/common.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/abara/Documents/BBAT/crawler/core/common.js',
+    '/home/abara/Documents/BBAT/crawler/main.js'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module 'moment'
+Require stack:
+- /home/abara/Documents/BBAT/crawler/core/common.js
+- /home/abara/Documents/BBAT/crawler/main.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/core/common.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/abara/Documents/BBAT/crawler/core/common.js',
+    '/home/abara/Documents/BBAT/crawler/main.js'
+  ]
+}
+
+Node.js v22.13.0
+ID: 0/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1342980) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}
+ID: 0/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343051) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}
+ID: 0/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343100) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}
+ID: 0/6
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343152) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+!!! Unhandled Rejection !!!
+Error: ENOENT: no such file or directory, open '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+    at Object.readFileSync (node:fs:442:20)
+    at exports.readFile (/home/abara/Documents/BBAT/crawler/core/common.js:51:15)
+    at Object.<anonymous> (/home/abara/Documents/BBAT/crawler/modules/taintSeed.js:66:28)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/abara/Documents/BBAT/crawler/core/../snippets/flowHandler.js'
+}
+ID: 0/2
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343202) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Crawler options: {
+  maxDepth: 1,
+  maxLinks: 1,
+  maxRetries: 2,
+  sameSite: false,
+  depthFirst: true,
+  manualQueue: false,
+  randomizeLinks: true
+}
+Browser options: {
+  headless: true,
+  firefoxUserPrefs: {
+    'browser.sessionstore.resume_from_crash': false,
+    'browser.tabs.crashReporting.sendReport': false,
+    'media.autoplay.default': 5,
+    'media.autoplay.allow-extension-background-pages': false,
+    'media.autoplay.block-event.enabled': true,
+    'media.autoplay.enabled.user-gestures-needed': false,
+    'dom.always_stop_slow_scripts': true,
+    'dom.use_watchdog': true,
+    'dom.max_script_run_time': 30,
+    'dom.max_chrome_script_run_time': 60,
+    'dom.max_ext_content_script_run_time': 15,
+    'browser.cache.disk.enable': false,
+    'browser.cache.memory.enable': false,
+    'privacy.trackingprotection.enabled': false,
+    'privacy.trackingprotection.fingerprinting.enabled': false,
+    'privacy.trackingprotection.origin_telemetry.enabled': false,
+    'privacy.trackingprotection.socialtracking.enabled': false,
+    'privacy.trackingprotection.pbmode.enabled': false,
+    'privacy.socialtracking.block_cookies.enabled': false,
+    'network.cookie.cookieBehavior': 0,
+    'security.fileuri.strict_origin_policy': false,
+    'browser.download.folderList': 2,
+    'pdfjs.disabled': true,
+    'browser.download.manager.showWhenStarting': false,
+    'browser.download.dir': '/tmp',
+    'browser.helperApps.neverAsk.saveToDisk': 'text/csv,application/x-msexcel,application/excel,application/x-excel,application/vnd.ms-excel,image/png,image/jpeg,text/html,text/plain,application/msword,application/xml,application/pdf,application/zip',
+    'browser.helperApps.alwaysAsk.force': false,
+    'browser.download.manager.alertOnEXEOpen': false,
+    'browser.download.manager.focusWhenStarting': false,
+    'browser.download.manager.useWindow': false,
+    'browser.download.manager.showAlertOnComplete': false,
+    'browser.download.manager.closeWhenDone': false
+  }
+}
+Context options: { ignoreHTTPSErrors: true, hasTouch: true }
+!!! Unhandled Rejection !!!
+browserType.launch: Failed to launch firefox because executable doesn't exist at /../FoxHound/obj-tf-release/dist/bin/foxhound
+    at Proxy.launch (/home/abara/Documents/BBAT/crawler/node_modules/playwright-extra/dist/index.cjs.js:686:54)
+    at async Object.initialize (/home/abara/Documents/BBAT/crawler/browsers/foxhound.js:14:12)
+    at async Object.start (/home/abara/Documents/BBAT/crawler/core/browser.js:47:16)
+    at async restartBrowser (/home/abara/Documents/BBAT/crawler/core/crawler.js:76:5)
+    at async Object.crawl (/home/abara/Documents/BBAT/crawler/core/crawler.js:37:5)
+    at async main (/home/abara/Documents/BBAT/crawler/main.js:36:9) {
+  name: 'Error'
+}
+ID: 0/2
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343229) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Crawler options: {
+  maxDepth: 1,
+  maxLinks: 1,
+  maxRetries: 2,
+  sameSite: false,
+  depthFirst: true,
+  manualQueue: false,
+  randomizeLinks: true
+}
+Browser options: {
+  headless: true,
+  firefoxUserPrefs: {
+    'browser.sessionstore.resume_from_crash': false,
+    'browser.tabs.crashReporting.sendReport': false,
+    'media.autoplay.default': 5,
+    'media.autoplay.allow-extension-background-pages': false,
+    'media.autoplay.block-event.enabled': true,
+    'media.autoplay.enabled.user-gestures-needed': false,
+    'dom.always_stop_slow_scripts': true,
+    'dom.use_watchdog': true,
+    'dom.max_script_run_time': 30,
+    'dom.max_chrome_script_run_time': 60,
+    'dom.max_ext_content_script_run_time': 15,
+    'browser.cache.disk.enable': false,
+    'browser.cache.memory.enable': false,
+    'privacy.trackingprotection.enabled': false,
+    'privacy.trackingprotection.fingerprinting.enabled': false,
+    'privacy.trackingprotection.origin_telemetry.enabled': false,
+    'privacy.trackingprotection.socialtracking.enabled': false,
+    'privacy.trackingprotection.pbmode.enabled': false,
+    'privacy.socialtracking.block_cookies.enabled': false,
+    'network.cookie.cookieBehavior': 0,
+    'security.fileuri.strict_origin_policy': false,
+    'browser.download.folderList': 2,
+    'pdfjs.disabled': true,
+    'browser.download.manager.showWhenStarting': false,
+    'browser.download.dir': '/tmp',
+    'browser.helperApps.neverAsk.saveToDisk': 'text/csv,application/x-msexcel,application/excel,application/x-excel,application/vnd.ms-excel,image/png,image/jpeg,text/html,text/plain,application/msword,application/xml,application/pdf,application/zip',
+    'browser.helperApps.alwaysAsk.force': false,
+    'browser.download.manager.alertOnEXEOpen': false,
+    'browser.download.manager.focusWhenStarting': false,
+    'browser.download.manager.useWindow': false,
+    'browser.download.manager.showAlertOnComplete': false,
+    'browser.download.manager.closeWhenDone': false
+  }
+}
+Context options: { ignoreHTTPSErrors: true, hasTouch: true }
+!!! Unhandled Rejection !!!
+browserType.launch: Failed to launch firefox because executable doesn't exist at /../FoxHound/obj-tf-release/dist/bin/foxhound
+    at Proxy.launch (/home/abara/Documents/BBAT/crawler/node_modules/playwright-extra/dist/index.cjs.js:686:54)
+    at async Object.initialize (/home/abara/Documents/BBAT/crawler/browsers/foxhound.js:14:12)
+    at async Object.start (/home/abara/Documents/BBAT/crawler/core/browser.js:47:16)
+    at async restartBrowser (/home/abara/Documents/BBAT/crawler/core/crawler.js:76:5)
+    at async Object.crawl (/home/abara/Documents/BBAT/crawler/core/crawler.js:37:5)
+    at async main (/home/abara/Documents/BBAT/crawler/main.js:36:9) {
+  name: 'Error'
+}
+ID: 0/2
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343266) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Crawler options: {
+  maxDepth: 1,
+  maxLinks: 1,
+  maxRetries: 2,
+  sameSite: false,
+  depthFirst: true,
+  manualQueue: false,
+  randomizeLinks: true
+}
+Browser options: {
+  headless: true,
+  firefoxUserPrefs: {
+    'browser.sessionstore.resume_from_crash': false,
+    'browser.tabs.crashReporting.sendReport': false,
+    'media.autoplay.default': 5,
+    'media.autoplay.allow-extension-background-pages': false,
+    'media.autoplay.block-event.enabled': true,
+    'media.autoplay.enabled.user-gestures-needed': false,
+    'dom.always_stop_slow_scripts': true,
+    'dom.use_watchdog': true,
+    'dom.max_script_run_time': 30,
+    'dom.max_chrome_script_run_time': 60,
+    'dom.max_ext_content_script_run_time': 15,
+    'browser.cache.disk.enable': false,
+    'browser.cache.memory.enable': false,
+    'privacy.trackingprotection.enabled': false,
+    'privacy.trackingprotection.fingerprinting.enabled': false,
+    'privacy.trackingprotection.origin_telemetry.enabled': false,
+    'privacy.trackingprotection.socialtracking.enabled': false,
+    'privacy.trackingprotection.pbmode.enabled': false,
+    'privacy.socialtracking.block_cookies.enabled': false,
+    'network.cookie.cookieBehavior': 0,
+    'security.fileuri.strict_origin_policy': false,
+    'browser.download.folderList': 2,
+    'pdfjs.disabled': true,
+    'browser.download.manager.showWhenStarting': false,
+    'browser.download.dir': '/tmp',
+    'browser.helperApps.neverAsk.saveToDisk': 'text/csv,application/x-msexcel,application/excel,application/x-excel,application/vnd.ms-excel,image/png,image/jpeg,text/html,text/plain,application/msword,application/xml,application/pdf,application/zip',
+    'browser.helperApps.alwaysAsk.force': false,
+    'browser.download.manager.alertOnEXEOpen': false,
+    'browser.download.manager.focusWhenStarting': false,
+    'browser.download.manager.useWindow': false,
+    'browser.download.manager.showAlertOnComplete': false,
+    'browser.download.manager.closeWhenDone': false
+  }
+}
+Context options: { ignoreHTTPSErrors: true, hasTouch: true }
+!!! Unhandled Rejection !!!
+browserType.launch: Protocol error (Browser.enable): Browser closed.
+==================== Browser output: ====================
+<launching> /home/abara/Documents/BBAT/FoxHound/obj-tf-release/dist/bin/foxhound -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-hOYfjI -juggler-pipe --disable-blink-features=AutomationControlled -silent
+<launched> pid=1343277
+[pid=1343277][err] Couldn't load XPCOM.
+[pid=1343277] <process did exit: exitCode=255, signal=null>
+[pid=1343277] starting temporary directories cleanup
+=========================== logs ===========================
+<launching> /home/abara/Documents/BBAT/FoxHound/obj-tf-release/dist/bin/foxhound -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-hOYfjI -juggler-pipe --disable-blink-features=AutomationControlled -silent
+<launched> pid=1343277
+[pid=1343277][err] Couldn't load XPCOM.
+[pid=1343277] <process did exit: exitCode=255, signal=null>
+[pid=1343277] starting temporary directories cleanup
+============================================================
+    at Proxy.launch (/home/abara/Documents/BBAT/crawler/node_modules/playwright-extra/dist/index.cjs.js:686:54)
+    at async Object.initialize (/home/abara/Documents/BBAT/crawler/browsers/foxhound.js:14:12)
+    at async Object.start (/home/abara/Documents/BBAT/crawler/core/browser.js:47:16)
+    at async restartBrowser (/home/abara/Documents/BBAT/crawler/core/crawler.js:76:5)
+    at async Object.crawl (/home/abara/Documents/BBAT/crawler/core/crawler.js:37:5)
+    at async main (/home/abara/Documents/BBAT/crawler/main.js:36:9) {
+  name: 'Error'
+}
+ID: 0/2
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343298) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Crawler options: {
+  maxDepth: 1,
+  maxLinks: 1,
+  maxRetries: 2,
+  sameSite: false,
+  depthFirst: true,
+  manualQueue: false,
+  randomizeLinks: true
+}
+Browser options: {
+  headless: true,
+  firefoxUserPrefs: {
+    'browser.sessionstore.resume_from_crash': false,
+    'browser.tabs.crashReporting.sendReport': false,
+    'media.autoplay.default': 5,
+    'media.autoplay.allow-extension-background-pages': false,
+    'media.autoplay.block-event.enabled': true,
+    'media.autoplay.enabled.user-gestures-needed': false,
+    'dom.always_stop_slow_scripts': true,
+    'dom.use_watchdog': true,
+    'dom.max_script_run_time': 30,
+    'dom.max_chrome_script_run_time': 60,
+    'dom.max_ext_content_script_run_time': 15,
+    'browser.cache.disk.enable': false,
+    'browser.cache.memory.enable': false,
+    'privacy.trackingprotection.enabled': false,
+    'privacy.trackingprotection.fingerprinting.enabled': false,
+    'privacy.trackingprotection.origin_telemetry.enabled': false,
+    'privacy.trackingprotection.socialtracking.enabled': false,
+    'privacy.trackingprotection.pbmode.enabled': false,
+    'privacy.socialtracking.block_cookies.enabled': false,
+    'network.cookie.cookieBehavior': 0,
+    'security.fileuri.strict_origin_policy': false,
+    'browser.download.folderList': 2,
+    'pdfjs.disabled': true,
+    'browser.download.manager.showWhenStarting': false,
+    'browser.download.dir': '/tmp',
+    'browser.helperApps.neverAsk.saveToDisk': 'text/csv,application/x-msexcel,application/excel,application/x-excel,application/vnd.ms-excel,image/png,image/jpeg,text/html,text/plain,application/msword,application/xml,application/pdf,application/zip',
+    'browser.helperApps.alwaysAsk.force': false,
+    'browser.download.manager.alertOnEXEOpen': false,
+    'browser.download.manager.focusWhenStarting': false,
+    'browser.download.manager.useWindow': false,
+    'browser.download.manager.showAlertOnComplete': false,
+    'browser.download.manager.closeWhenDone': false
+  }
+}
+Context options: { ignoreHTTPSErrors: true, hasTouch: true }
+!!! Unhandled Rejection !!!
+browserType.launch: Protocol error (Browser.enable): Browser closed.
+==================== Browser output: ====================
+<launching> /home/abara/Documents/BBAT/FoxHound/obj-tf-release/dist/bin/foxhound -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-OJ7MHx -juggler-pipe --disable-blink-features=AutomationControlled -silent
+<launched> pid=1343309
+[pid=1343309][err] Couldn't load XPCOM.
+[pid=1343309] <process did exit: exitCode=255, signal=null>
+[pid=1343309] starting temporary directories cleanup
+=========================== logs ===========================
+<launching> /home/abara/Documents/BBAT/FoxHound/obj-tf-release/dist/bin/foxhound -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-OJ7MHx -juggler-pipe --disable-blink-features=AutomationControlled -silent
+<launched> pid=1343309
+[pid=1343309][err] Couldn't load XPCOM.
+[pid=1343309] <process did exit: exitCode=255, signal=null>
+[pid=1343309] starting temporary directories cleanup
+============================================================
+    at Proxy.launch (/home/abara/Documents/BBAT/crawler/node_modules/playwright-extra/dist/index.cjs.js:686:54)
+    at async Object.initialize (/home/abara/Documents/BBAT/crawler/browsers/foxhound.js:14:12)
+    at async Object.start (/home/abara/Documents/BBAT/crawler/core/browser.js:47:16)
+    at async restartBrowser (/home/abara/Documents/BBAT/crawler/core/crawler.js:76:5)
+    at async Object.crawl (/home/abara/Documents/BBAT/crawler/core/crawler.js:37:5)
+    at async main (/home/abara/Documents/BBAT/crawler/main.js:36:9) {
+  name: 'Error'
+}
+ID: 0/2
+DB: 127.0.0.1:3306
+Modules: taintSeed
+Task: crawl
+====================
+(node:1343326) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Crawler options: {
+  maxDepth: 1,
+  maxLinks: 1,
+  maxRetries: 2,
+  sameSite: false,
+  depthFirst: true,
+  manualQueue: false,
+  randomizeLinks: true
+}
+Browser options: {
+  headless: true,
+  firefoxUserPrefs: {
+    'browser.sessionstore.resume_from_crash': false,
+    'browser.tabs.crashReporting.sendReport': false,
+    'media.autoplay.default': 5,
+    'media.autoplay.allow-extension-background-pages': false,
+    'media.autoplay.block-event.enabled': true,
+    'media.autoplay.enabled.user-gestures-needed': false,
+    'dom.always_stop_slow_scripts': true,
+    'dom.use_watchdog': true,
+    'dom.max_script_run_time': 30,
+    'dom.max_chrome_script_run_time': 60,
+    'dom.max_ext_content_script_run_time': 15,
+    'browser.cache.disk.enable': false,
+    'browser.cache.memory.enable': false,
+    'privacy.trackingprotection.enabled': false,
+    'privacy.trackingprotection.fingerprinting.enabled': false,
+    'privacy.trackingprotection.origin_telemetry.enabled': false,
+    'privacy.trackingprotection.socialtracking.enabled': false,
+    'privacy.trackingprotection.pbmode.enabled': false,
+    'privacy.socialtracking.block_cookies.enabled': false,
+    'network.cookie.cookieBehavior': 0,
+    'security.fileuri.strict_origin_policy': false,
+    'browser.download.folderList': 2,
+    'pdfjs.disabled': true,
+    'browser.download.manager.showWhenStarting': false,
+    'browser.download.dir': '/tmp',
+    'browser.helperApps.neverAsk.saveToDisk': 'text/csv,application/x-msexcel,application/excel,application/x-excel,application/vnd.ms-excel,image/png,image/jpeg,text/html,text/plain,application/msword,application/xml,application/pdf,application/zip',
+    'browser.helperApps.alwaysAsk.force': false,
+    'browser.download.manager.alertOnEXEOpen': false,
+    'browser.download.manager.focusWhenStarting': false,
+    'browser.download.manager.useWindow': false,
+    'browser.download.manager.showAlertOnComplete': false,
+    'browser.download.manager.closeWhenDone': false
+  }
+}
+Context options: { ignoreHTTPSErrors: true, hasTouch: true }
+!!! Unhandled Rejection !!!
+browserType.launch: Protocol error (Browser.enable): Browser closed.
+==================== Browser output: ====================
+<launching> /home/abara/Documents/BBAT/FoxHound/obj-tf-release/dist/bin/foxhound -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-M0Jant -juggler-pipe --disable-blink-features=AutomationControlled -silent
+<launched> pid=1343337
+[pid=1343337][err] Couldn't load XPCOM.
+[pid=1343337] <process did exit: exitCode=255, signal=null>
+[pid=1343337] starting temporary directories cleanup
+=========================== logs ===========================
+<launching> /home/abara/Documents/BBAT/FoxHound/obj-tf-release/dist/bin/foxhound -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-M0Jant -juggler-pipe --disable-blink-features=AutomationControlled -silent
+<launched> pid=1343337
+[pid=1343337][err] Couldn't load XPCOM.
+[pid=1343337] <process did exit: exitCode=255, signal=null>
+[pid=1343337] starting temporary directories cleanup
+============================================================
+    at Proxy.launch (/home/abara/Documents/BBAT/crawler/node_modules/playwright-extra/dist/index.cjs.js:686:54)
+    at async Object.initialize (/home/abara/Documents/BBAT/crawler/browsers/foxhound.js:14:12)
+    at async Object.start (/home/abara/Documents/BBAT/crawler/core/browser.js:47:16)
+    at async restartBrowser (/home/abara/Documents/BBAT/crawler/core/crawler.js:76:5)
+    at async Object.crawl (/home/abara/Documents/BBAT/crawler/core/crawler.js:37:5)
+    at async main (/home/abara/Documents/BBAT/crawler/main.js:36:9) {
+  name: 'Error'
+}
